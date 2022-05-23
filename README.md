@@ -1,5 +1,5 @@
 # Welcome to my Profile 👋
-### Github Overview computer 🧑‍💻
+### Github Overview 🧑‍💻
 
 <a href="https://github.com/Rick3yHuang">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Rick3yHuang&count_private=true&show_icons=true&theme=buefy&bg_color=70,FFFFFF,DDDDFF" />
