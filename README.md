@@ -2,8 +2,8 @@
 ### Github Overview😄
 
 <a href="https://github.com/Rick3yHuang">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Rick3yHuang&count_private=true&show_icons=true&theme=buefy&bg_color=40,FFFFFF,DDDDFF" />
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rick3yHuang&hide=html,javascript,css&bg_color=40,FFFFFF,EEEEFF&layout=compact" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Rick3yHuang&count_private=true&show_icons=true&theme=buefy&bg_color=70,FFFFFF,DDDDFF" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rick3yHuang&hide=html,javascript,css&bg_color=70,FFFFFF,EEEEFF&layout=compact" />
 </a>
 
 ### Self introduction
