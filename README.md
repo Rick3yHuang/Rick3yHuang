@@ -15,5 +15,5 @@
 
 ### Personal Site & Blog
 - Here is my [Résumé](https://drive.google.com/file/d/1N2z7Be6V6cBNlx7OBbAIU9HfC2_C9aBN/view?usp=sharing)
+- Here is my [LinkedIn](https://www.linkedin.com/in/ruiqi-huang-44968a1a2/) Page
 - Main personal page is still on working...
-- Welcome to my [blog](https://sunnyhaze.github.io/blog)✨ (in chinese) by Github pages and hexo.
