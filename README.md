@@ -14,7 +14,7 @@
 - 🌱 I’m currently preparing for the algerba comprehensive exam.
 
 ### Personal Site & Blog
-- Here is my [Résumé](https://drive.google.com/file/d/1N2z7Be6V6cBNlx7OBbAIU9HfC2_C9aBN/view?usp=sharing)
+- Here is my [Résumé](https://drive.google.com/file/d/1oJ12weuE_1DIOGUsNWfyb3kRvqIHx2-f/view?usp=sharing)
 - Here is my [LinkedIn](https://www.linkedin.com/in/ruiqi-huang-44968a1a2/) Page
 - Please email via rickey.huang747@gmail.com to reach me
 - Main personal page is still on working...
