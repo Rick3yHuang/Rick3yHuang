@@ -16,4 +16,5 @@
 ### Personal Site & Blog
 - Here is my [Résumé](https://drive.google.com/file/d/1N2z7Be6V6cBNlx7OBbAIU9HfC2_C9aBN/view?usp=sharing)
 - Here is my [LinkedIn](https://www.linkedin.com/in/ruiqi-huang-44968a1a2/) Page
+- I you want to reach out, you could [email](rickey.huang747@gmail.com) me
 - Main personal page is still on working...
