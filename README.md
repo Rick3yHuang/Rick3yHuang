@@ -9,7 +9,7 @@
 ### Self introduction
 - 🏠 I come from Beijing, China 🇨🇳
 - 🏫 I got my mathematics B.S. degree from Wake Forest University 🎩
-- 📫 I'm currently a math PhD student at Gerogia Tech 🐝
+- 📫 I'm currently a math PhD student at Georgia Tech 🐝
 - 🔭 I’m currently interested in computational algebraic geometry
 
 ### Personal Site & Blog
