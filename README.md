@@ -13,7 +13,7 @@
 - 🔭 I’m currently interested in computational algebraic geometry
 
 ### Personal Site & Blog
+- Here is my [Personal Page](https://sites.gatech.edu/rickeyhuang77/)
 - Here is my [Résumé](https://drive.google.com/file/d/1XqMzuqxJdc1-GmzQG3ymv4IzggUgjNXK/view?usp=sharing)
 - Here is my [LinkedIn](https://www.linkedin.com/in/ruiqi-huang-44968a1a2/) Page
 - Please email via rickey.huang747@gmail.com to reach me
-- Main personal page is still on working...
