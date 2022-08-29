@@ -11,7 +11,6 @@
 - 🏫 I got my mathematics B.S. degree from Wake Forest University 🎩
 - 📫 I'm currently a math PhD student at Gerogia Tech 🐝
 - 🔭 I’m currently interested in computational algebraic geometry
-- 🌱 I’m currently preparing for the algerba comprehensive exam.
 
 ### Personal Site & Blog
 - Here is my [Résumé](https://drive.google.com/file/d/1XqMzuqxJdc1-GmzQG3ymv4IzggUgjNXK/view?usp=sharing)
