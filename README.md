@@ -14,6 +14,6 @@
 
 ### Personal Site & Blog
 - Here is my [Personal Page](https://sites.gatech.edu/rickeyhuang77/)
-- Here is my [Curriculum Vitae](https://drive.google.com/file/d/1I2rbCxmzCrCyth1uSY9DZPGc6V5LU_1D/view?usp=sharing)
+- Here is my [Curriculum Vitae](https://drive.google.com/file/d/1ZVOyHsabYrb9XnZT-mUbz2LKc2tyo237/view?usp=sharing)
 - Here is my [LinkedIn](https://www.linkedin.com/in/ruiqi-huang-44968a1a2/) Page
 - Please email via rickey.huang747@gmail.com to reach me
