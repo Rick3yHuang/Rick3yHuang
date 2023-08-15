@@ -3,7 +3,7 @@
 
 <a href="https://github.com/Rick3yHuang">
   <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rick3yHuang&count_private=true&show_icons=true&theme=github_dark" />
-  <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rick3yHuang &hide=html,javascript,css,tex&show_icons=true&theme=github_dark&layout=compact" />
+  <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rick3yHuang&hide=html,javascript,css,tex&show_icons=true&theme=github_dark&layout=compact" />
 </a>
 
 ### Self introduction
