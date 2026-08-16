@@ -1,19 +1,16 @@
-# Welcome to my Profile 👋
-### Github Overview 🧑‍💻
+# Ruiqi (Rickey) Huang
 
-<a href="https://github.com/Rick3yHuang">
-  <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rick3yHuang&count_private=true&show_icons=true&theme=github_dark" />
-  <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rick3yHuang&hide=html,javascript,css,tex,rust&show_icons=true&theme=github_dark&layout=compact" />
-</a>
+I am a Ph.D. candidate in the [School of Mathematics](https://math.gatech.edu/) at the [Georgia Institute of Technology](https://www.gatech.edu/).
 
-### Self introduction
-- 🏠 I come from Beijing, China 🇨🇳
-- 🏫 I got my mathematics B.S. degree from Wake Forest University 🎩
-- 📫 I'm currently a math PhD student at Georgia Tech 🐝
-- 🔭 I’m currently interested in computational algebraic geometry
+My research lies in **computational algebraic geometry** and its applications in **astrodynamics**. I am particularly interested in polynomial systems, projective geometry, interval arithmetic, implicitization, and algebraic methods for orbit determination and navigation.
 
-### Personal Site & Blog
-- Here is my [Personal Page](https://sites.gatech.edu/rickeyhuang77/)
-- Here is my [Curriculum Vitae](https://drive.google.com/file/d/1ZVOyHsabYrb9XnZT-mUbz2LKc2tyo237/view?usp=sharing)
-- Here is my [LinkedIn](https://www.linkedin.com/in/ruiqi-huang-44968a1a2/) Page
-- Please email via rickey.huang747@gmail.com to reach me
+## Education
+
+- **Georgia Institute of Technology** — Ph.D. in Mathematics, 2022–present
+- **Wake Forest University** — B.S. in Mathematics; minors in Statistics and Computer Science, 2019–2022
+
+## Links
+
+[Personal website](https://rick3yhuang.github.io/) · [Publications](https://rick3yhuang.github.io/publications/) · [Résumé](https://rick3yhuang.github.io/assets/files/resume/ruiqi-huang-resume.pdf) · [Google Scholar](https://scholar.google.com/citations?user=tlQGXsEAAAAJ&hl=en) · [arXiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Ruiqi+Huang&terms-0-field=all&classification-mathematics=y&classification-physics=y&classification-physics_archives=astro-ph&classification-include_cross_list=include&date-filter_by=all_dates&abstracts=show&size=50&order=-announced_date_first) · [ORCID](https://orcid.org/0009-0005-4708-6846) · [LinkedIn](https://www.linkedin.com/in/ruiqi-huang-44968a1a2/)
+
+📫 [rhuang346@gatech.edu](mailto:rhuang346@gatech.edu)
