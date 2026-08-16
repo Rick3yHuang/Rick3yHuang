@@ -16,6 +16,6 @@ My research lies in **computational algebraic geometry** and its applications in
 
 ## Links
 
-[Personal website](https://rick3yhuang.github.io/) · [Publications](https://rick3yhuang.github.io/publications/) · [Résumé](https://rick3yhuang.github.io/assets/files/resume/ruiqi-huang-resume.pdf) · [LinkedIn](https://www.linkedin.com/in/ruiqi-huang-44968a1a2/)
+🌐 [Personal website](https://rick3yhuang.github.io/) · 📚 [Publications](https://rick3yhuang.github.io/publications/) · 📄 [Résumé](https://rick3yhuang.github.io/assets/files/resume/ruiqi-huang-resume.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/ruiqi-huang-44968a1a2/)
 
-📫 [rhuang346@gatech.edu](mailto:rhuang346@gatech.edu)
+✉️ [rickey.huang747@gmail.com](mailto:rickey.huang747@gmail.com)
